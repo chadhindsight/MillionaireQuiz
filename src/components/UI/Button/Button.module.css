@@ -1,0 +1,11 @@
+.button {
+    color: white;
+    background-color: #062E4C;
+    border: 1px solid white;
+    width: 100px;
+    height: 40px;
+}
+
+button:hover {
+    filter: brightness(1.5);
+}

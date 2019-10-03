@@ -1,0 +1,11 @@
+.Audience {
+    background: url('../../../assets/audience.png') no-repeat;
+    width: 25%;
+    background-size: contain;
+    height: 60px;
+    border: none;
+}
+
+.Audience:hover {
+    filter: brightness(1.5);
+}

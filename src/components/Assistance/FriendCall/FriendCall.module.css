@@ -1,0 +1,12 @@
+.FriendCall {
+    background: url('../../../assets/friend.png') no-repeat;
+    width: 25%;
+    background-size: contain;
+    height: 60px;
+    margin: 1px 1px 20px 1px;
+    border: none;
+}
+
+.FriendCall:hover {
+    filter: brightness(1.5);
+}

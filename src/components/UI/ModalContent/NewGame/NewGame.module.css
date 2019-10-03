@@ -1,0 +1,14 @@
+.NewGame {
+    width: 100%;
+    height: 80%;
+    color: white;
+    text-align: center;
+}
+
+.NewGame h2 {
+    margin-top: 30px;
+}
+
+.NewGame button {
+    margin: 70px 5px;
+}

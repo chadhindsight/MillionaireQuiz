@@ -1,0 +1,21 @@
+.QuestionBox {
+  display: flex;
+  background: rgb(3,12,19);
+  background: radial-gradient(circle, rgba(3,12,19,1) 57%, rgba(32,45,55,1) 85%, rgba(6,46,76,1) 97%);
+  border: 2px solid #CBC8DE;
+  border-radius: 15%;
+  width: 85%;
+  height: 55px;
+  margin: 10px auto;
+  word-wrap: break-word;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  }
+
+  /* .QuestionBox p {
+    width: 100%;
+    align-self: center;
+    text-align: center;
+    color: #fff;
+  } */

@@ -1,0 +1,11 @@
+.Elimination {
+    background: url('../../../assets/elimination.png') no-repeat;
+    width: 25%;
+    background-size: contain;
+    height: 60px;
+    border: none;
+}
+
+.Elimination:hover {
+    filter: brightness(1.5);
+}
