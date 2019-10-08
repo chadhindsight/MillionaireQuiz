@@ -1,0 +1,1 @@
+//Adding the .test.js file extension makes jest automatically look for tests in the specified file.
