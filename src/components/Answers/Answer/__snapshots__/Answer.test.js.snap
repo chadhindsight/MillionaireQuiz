@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Answers component should render correctly with related child component info 1`] = `
+<div
+  className="AnswerBox"
+  style={
+    Object {
+      "visibility": "visible",
+    }
+  }
+>
+  <input
+    type="checkbox"
+  />
+  <label
+    className="correct"
+  >
+    <span>
+      :
+    </span>
+    <p />
+  </label>
+</div>
+`;
